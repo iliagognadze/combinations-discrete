@@ -1,5 +1,4 @@
-
-package combinations;
+//Add this file in your src
 
 import java.util.HashMap;
 import java.util.Map;
