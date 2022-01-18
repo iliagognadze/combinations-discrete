@@ -1,5 +1,4 @@
-
-package combinations;
+//Add this file in your src. (Just demonstrating using of Algorithm)
 
 public class Tester {
 
